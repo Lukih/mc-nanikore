@@ -1,0 +1,7 @@
+#
+backups/*
+logs/*
+*.log
+
+#
+!.gitkeep

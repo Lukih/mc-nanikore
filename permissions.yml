@@ -1,0 +1,14 @@
+plugin:
+    permissions:
+        system: default
+        copies:
+groups:
+    Default:
+        default: true
+        info:
+            prefix: ''
+            suffix: ''
+            build: false
+        inheritance:
+        permissions:
+          minecraft.command.teammsg

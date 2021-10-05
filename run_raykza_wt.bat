@@ -1,0 +1,1 @@
+wt -d E:\Github\nk-svmc powershell.exe -Command .\run_paper_raykza.bat
