@@ -1,14 +1,20 @@
-# Listado de mods
+# Bienvenido a Nani Kore
+Servidor creado por Raykza y Lukih.
 
-1) Optimización
+## Datos
+- **Minecraft:** 1.16.5
+- **Modpack:** Crucial 2
+- **Forge:** ...
+
+## Listado de mods
+### Optimización
 - 1.17 Iron and Gold
 - Abnormals Core
 - Abnormals Delight
 - Abundance
 - Alex's Mobs
 - Allurement
-
-2) Otros
+### Otros
 - Antique Atlas
 - Antique Waystones
 - Architects Palette
@@ -127,8 +133,7 @@
 - Yung's API
 - Yung's Extras
 
-# Listado de plugins
-
+## Listado de plugins
 - FixChatColors
 - LoginSecurity
 - LuckPerms
